@@ -33,7 +33,7 @@ void output() {
 
 int main() {
     freopen("5886 Korean Words.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
+    freopen("rwgOutput.txt", "w", stdout);
     
     input();
 
